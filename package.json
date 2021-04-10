@@ -1,0 +1,17 @@
+{
+     "name": "@kirtanmagan/dogify",
+     "version": "1.0.1",
+     "description": "Rewrites a sentence as if a dog said it.",
+     "license": "MIT",
+     "main": "index.js",
+     "repository": "kirtan0000/dogify",
+     "keywords": [
+          "bark",
+          "npm",
+          "package",
+          "dog",
+          "woof",
+          "pant",
+          "ruff"
+     ]
+}
