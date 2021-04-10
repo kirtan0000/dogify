@@ -1,6 +1,6 @@
 {
      "name": "@kirtanmagan/dogify",
-     "version": "1.0.1",
+     "version": "1.0.3",
      "description": "Rewrites a sentence as if a dog said it.",
      "license": "MIT",
      "main": "index.js",
