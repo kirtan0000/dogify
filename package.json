@@ -13,5 +13,8 @@
           "woof",
           "pant",
           "ruff"
-     ]
+     ],
+     "dependencies": {
+          "@kirtanmagan/dogify": "^1.0.1"
+     }
 }

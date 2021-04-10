@@ -2,7 +2,7 @@
 
 ### Code:
 
-> const dogify = require("dogify");
+> const dogify = require("@kirtanmagan/dogify")
 >
 > dogify("This is a sentence!");
 
